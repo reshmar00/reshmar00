@@ -3,9 +3,9 @@
 ##### *Pronouns: she/her/hers* 🌈
 
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 &nbsp; I'm enrolled in the Master of Software Development program at the University of Utah\
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ &nbsp; I'm actively working on my capstone project (and a side project or two)💡\
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📲 &nbsp; I’m going to learn Application System Design in my final semester 👩🏻‍💻\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎓 &nbsp; I recently graduated from the Master of Software Development program at the University of Utah (3.9/4.0) December 2023 \
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ &nbsp; I worked as a Jr. Machine Learning & Object Detection Engineer at a local startup, PassiveLogic 💡\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📲 &nbsp; Top Skills: MLOps, CI/CD, Test-driven Development 👩🏻‍💻\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ &nbsp; Fun fact: I love improv and theatre and have performed in both milieus! 🎭
 
    
