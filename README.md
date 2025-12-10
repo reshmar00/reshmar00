@@ -13,7 +13,7 @@
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> &nbsp;&nbsp;👥 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/reshma-raghavan-03038821b) 💬
 
-   ![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=reshmar00&show_icons=true&theme=radical)
+   ![Reshma's GitHub stats](https://reshma-github-readme-stats.vercel.app/api?username=reshmar00&show_icons=true&theme=radical)
 
    ![Reshma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reshmar00&theme=radical)
 
