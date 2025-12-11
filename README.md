@@ -13,13 +13,15 @@
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> &nbsp;&nbsp;👥 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/reshma-raghavan-03038821b) 💬
 
-   <details>
-      <summary>:zap: Github Stats</summary>
-      <br>
-      <p align="center">
+
+<details>
+   <summary>:zap: Github Stats</summary>
+   <br>
+   <p align="center">
       <image src="https://reshma-github-readme-stats.vercel.app/api?username=reshmar00&layout=compact&theme=radical" />
-      </p>
-   </details>
+   </p>
+</details>
+         
 <details>
   <summary><strong>:zap: Top Languages</strong></summary>
   <br>
