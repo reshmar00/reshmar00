@@ -7,7 +7,7 @@
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌊 &nbsp; Building cloud-enabled geospatial software for Flood Inundation Mapping (FIM) as part of the NSF-funded **CIROH** program 🔵\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚀 &nbsp; Engineering the FIM ecosystem: FIMbench • FIMeval 🚰🎯\
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️ &nbsp; Previously engineered cloud-enabled AI/ML applications at the Scientific Computing and Imaging Institute (SCI) and PassiveLogic 🥼💡\
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☁️ &nbsp; Previously engineered AI/ML software at the Scientific Computing and Imaging Institute (SCI) and PassiveLogic 🥼💡\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ &nbsp; Interests: **Scientific Software** • **Geospatial Computing** • **Cloud** • **AI/ML** • **DevOps** 👩🏻‍💻📝\
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ &nbsp; Fun fact: I love improv and theatre and have performed in both milieus! 🎭🤸🏻‍♀️
 
