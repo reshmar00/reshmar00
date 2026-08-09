@@ -13,12 +13,3 @@
 
    
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> &nbsp;&nbsp;👥 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/reshma-raghavan-03038821b) 💬
-
-         
-<details>
-  <summary><strong>:zap: Top Languages</strong></summary>
-  <br>
-  <p align="center">
-    <img src="https://reshma-github-readme-stats.vercel.app/api/top-langs/?username=reshmar00&layout=compact&theme=radical" />
-  </p>
-</details>
